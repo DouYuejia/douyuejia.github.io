@@ -9,13 +9,12 @@ navigation:
     url: /
   - name: 关于
     url: /about
-  - name: 教育与实习经历
-    url: /experience
   - name: 分类
     url: /tags
   - name: 课题
     url: /projects
-
+  - name: 教育与实习经历
+    url: /experience
 paginate: 8
 
 excerpt_separator: <!-- more -->
