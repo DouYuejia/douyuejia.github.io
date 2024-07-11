@@ -2,7 +2,7 @@ name: "窦越嘉"
 description: "中国人民大学高瓴人工智能学院 祁琦课题组"
 
 avatar: https://douyuejia.github.io/images/profile.png
-favicon: https://douyuejia.github.io/images/1.ico
+favicon: https://douyuejia.github.io/images/cat.ico
 
 navigation:
   - name: 首页
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2024 Pianfan
 
-url: https://pianfan.github.io
+url: https://douyuejia.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
