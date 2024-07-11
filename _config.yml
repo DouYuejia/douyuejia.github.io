@@ -17,15 +17,9 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 
-  email: xiongyunhan@outlook.com
-  facebook:
-  github: pianfan
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  youtube:
+  email: douyuejia@gmail.com
+  github: DouYuejia
 
-footer-text: Copyright (c) 2024 Pianfan
 
 url: https://douyuejia.github.io
 
