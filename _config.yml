@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guanting Dong"
-description              : "Agentic RL; Deep Search Agent; LLM Alignment"
-repository               : "dongguanting.github.io"
+title                    : "Yuejia Dou"
+description              : "Intelligent Decision Making; Computational Advertising; Data-driven Mechanism Design"
+repository               : "douyuejia.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guanting Dong (董冠霆)"
-  avatar           : "images/photo.jpg"
+  name             : "Yuejia Dou (窦越嘉)"
+  avatar           : "images/photo.png"
   bio              : "Ph.D. Student @ GSAI, RUC"
   location         : "Beijing, China"
   employer         : "Renmin University of China"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN&oi=ao"
-  email            : "dongguanting@ruc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=lwYBVZsAAAAJ&hl=zh-CN"
+  email            : "douyuejia@ruc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dongguanting"
+  github           : "douyuejia"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : “https://www.linkedin.com/in/%E5%86%A0%E9%9C%86-%E8%91%A3-1680222b8/”
-  dblp             : "https://dblp.org/pid/227/7667.html"
-  orcid            : "https://orcid.org/0000-0002-2318-0281"
+  linkedin         : 
+  dblp             :
+  orcid            : "https://orcid.org/0009-0008-9489-7838"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "kakakbibibi"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -146,6 +146,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+
+# Disable GitHub Metadata to avoid SSL connection issues
+github: [metadata: false]
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
