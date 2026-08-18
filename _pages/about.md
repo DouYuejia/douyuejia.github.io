@@ -11,15 +11,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a 2nd-year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by [Prof. Qi Qi](http://ai.ruc.edu.cn/academicfaculty/szdwn/qq/index.htm). I earned my B.Eng (2024) degree in School of Artificial Intelligence from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Jie Yang](https://teacher.bupt.edu.cn/yangjie/zh_CN/index/11515/list/index.htm).
+I am currently a 3rd-year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by [Prof. Qi Qi](http://ai.ruc.edu.cn/academicfaculty/szdwn/qq/index.htm). I earned my B.Eng (2024) degree in School of Artificial Intelligence from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Jie Yang](https://teacher.bupt.edu.cn/yangjie/zh_CN/index/11515/list/index.htm).
 
-I'm currently a research intern focusing on decision intelligence at [Alimama, Alibaba Group](https://www.alimama.com/index.htm). 
+I was a research intern focusing on decision intelligence at [Alimama, Alibaba Group](https://www.alimama.com/index.htm) from February 2025 to April 2026.
 
-### Research Interests：
-- **Data-driven Mechanism Design** 
-- **Intelligent Decision Making** 
-- **Computational Advertising**
-- **Agentic Reinforcement Learning**
+### Research Interests:
+- **Intelligent Decision-Making**
+- **Computational Advertising**, including **Data-Driven Mechanism Design** and **Generative Auto-Bidding**
 
 <!-- 
 <span class='anchor' id='news'></span>
@@ -49,7 +47,7 @@ I'm currently a research intern focusing on decision intelligence at [Alimama, A
 
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experience
-- <span style="font-size: 0.92em;">**2025.04 - Present** | <img src="/images/alibaba.png" style="width: 2.4em;"> **Alibaba, <img src="/images/alimama.png" style="width: 1em;" /> Alimama**</span>  
+- <span style="font-size: 0.92em;">**2025.02 - 2026.04** | <img src="/images/alibaba.png" style="width: 2.4em;"> **Alibaba, <img src="/images/alimama.png" style="width: 1em;" /> Alimama**</span><br>
   <span style="font-size: 0.869em;">- Research Intern on Decision Intelligence & Computational Advertising<br>- Mentor: [Zhilin Zhang](https://scholar.google.com/citations?hl=zh-CN&user=ehwxPtEAAAAJ) </span>
 
 - <span style="font-size: 0.92em;">**2024.07 - 2024.11** | <img src="/images/baidu.png" style="width: 2.4em;"> **Baidu**</span>  
@@ -124,19 +122,27 @@ I'm currently a research intern focusing on decision intelligence at [Alimama, A
 # 📝 Publications
 
 
-- <span style="font-size: 0.92em;">[**On Designing the Optimal Integrated Ad Auction in E-commerce Platforms**](https://ojs.aaai.org/index.php/AAAI/article/view/33347)</span>\
-<span style="font-size: 0.869em;"> Yuchao Ma, Weian Li,Yuhan Wang, **Yuejia Dou**, Qi Qi, Changyuan Yu.</span>\
-<span style="font-size: 0.87em; color: #c00000;">**AAAI 2025**</span>
+- <span style="font-size: 0.92em;">[**AIGB-R1: Self-Evolving Generative Auto-Bidding via Hierarchical Planner-Executor Optimization**](https://arxiv.org/abs/2607.17281)</span>\
+<span style="font-size: 0.869em;"> **Yuejia Dou**<sup>*</sup>, Hesong Wang<sup>*</sup>, Xinyu Zhang, Tianyu Wang, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Qi Qi.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**arXiv 2026**</span>
 
+- <span style="font-size: 0.92em;">[**GAM: A Generative Auto-Marketing Framework in Online E-commerce Platforms**](https://dl.acm.org/doi/10.1145/3774904.3792805)</span>\
+<span style="font-size: 0.869em;"> **Yuejia Dou**, Shuai Dou, Yuchao Ma, Bingzhe Wang, Tianyu Wang, Zhilin Zhang, Chuan Yu, Jian Xu, Qi Qi.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**WWW 2026**</span>
+
+- <span style="font-size: 0.92em;">[**Bridging the Gap: Real-Time Cost Control for Autobidding**](https://dl.acm.org/doi/10.1145/3770855.3818329)</span>\
+<span style="font-size: 0.869em;"> Bingzhe Wang, Bo Shen, **Yuejia Dou**, Qi Qi, Ruohan Qian, Changyuan Li, Xin Yuan, Bin Zou, Wen Yi, Zhi Guo, Shuanglong Li, Lin Liu, Yixuan Zhang, Yixin Su, Wenqiang Liu.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**KDD 2026**</span>
+
+- <span style="font-size: 0.92em;">[**On Designing the Optimal Integrated Ad Auction in E-commerce Platforms**](https://ojs.aaai.org/index.php/AAAI/article/view/33347)</span>\
+<span style="font-size: 0.869em;"> Yuchao Ma<sup>*</sup>, Weian Li<sup>*</sup>, Yuhan Wang, Zitian Guo, **Yuejia Dou**, Qi Qi, Changyuan Yu.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**AAAI 2025**</span>
 
 - <span style="font-size: 0.92em;">[**A Context-Aware Framework for Integrating Ad Auctions and Recommendations**](https://dl.acm.org/doi/10.1145/3696410.3714779)</span>\
 <span style="font-size: 0.869em;"> Yuchao Ma, Weian Li, **Yuejia Dou**, Zhiyuan Su, Changyuan Yu, Qi Qi.</span>\
 <span style="font-size: 0.87em; color: #c00000;">**WWW 2025**</span>
 
-- <span style="font-size: 0.92em;">[**GAM: A Generative Auto-Marketing Framework in Online E-commerce Platforms**](https://dl.acm.org/doi/10.1145/3696410.3714779)</span>\
-<span style="font-size: 0.869em;"> **Yuejia Dou**, Shuai Dou, Yuchao Ma, Bingzhe Wang, Tianyu Wang, Zhilin Zhang, Chuan Yu, Jian Xu, Qi Qi.</span>\
-<span style="font-size: 0.87em; color: #c00000;">**WWW 2026**</span>
-
+<span style="font-size: 0.82em;"><sup>*</sup> Equal contribution.</span>
 
 <span class='anchor' id='academic-services'></span>
 # 🔍 Academic Services
@@ -147,8 +153,15 @@ I'm currently a research intern focusing on decision intelligence at [Alimama, A
 ### Senior Program Committee (SPC)
 - <span style="font-size: 0.869em;">AAAI: 2026</span> -->
 
-### Conference Reviewer
-- <span style="font-size: 0.869em;">COCOON (2025), KDD (2025-2026), AAAI (2025), AAMAS (2025), WINE (2025)</span>
+### Workshop Organizer
+- <span style="font-size: 0.869em;">[ICLR 2026 Workshop on AI for Mechanism Design and Strategic Decision Making (AIMS)](https://iclr.cc/virtual/2026/workshop/10000779)</span>
+
+### Conference (Sub-)Reviewer
+<div style="font-size: 0.869em; display: grid; grid-template-columns: 5em auto; column-gap: 1.2em;">
+  <span>2026</span><span>KDD, AAAI, AAMAS, ICLR</span>
+  <span>2025</span><span>IJTCS, EC, WINE, NeurIPS, KDD, COCOON</span>
+  <span>2024</span><span>WINE, KDD</span>
+</div>
 
 
 
@@ -157,7 +170,7 @@ I'm currently a research intern focusing on decision intelligence at [Alimama, A
 <div id="footer" style="text-align: center; font-size: 0.9em; color: #666;">
   <div id="footer-text"></div>
 
-  &copy; 2025 Yuejia Dou<br><br>
+  &copy; 2026 Yuejia Dou<br><br>
 
   <span style="color: #888;">
     Total Views: <span id="busuanzi_value_site_pv"></span> | 
