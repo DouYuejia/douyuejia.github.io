@@ -13,8 +13,6 @@ redirect_from:
 
 I am currently a 3rd-year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by [Prof. Qi Qi](http://ai.ruc.edu.cn/academicfaculty/szdwn/qq/index.htm). I earned my B.Eng (2024) degree in School of Artificial Intelligence from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Jie Yang](https://teacher.bupt.edu.cn/yangjie/zh_CN/index/11515/list/index.htm).
 
-I was a research intern focusing on decision intelligence at [Alimama, Alibaba Group](https://www.alimama.com/index.htm) from February 2025 to April 2026.
-
 ### Research Interests:
 - **Intelligent Decision-Making**
 - **Computational Advertising**, including **Data-Driven Mechanism Design** and **Generative Auto-Bidding**
